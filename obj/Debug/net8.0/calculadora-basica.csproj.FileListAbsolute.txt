@@ -1,0 +1,14 @@
+/var/www/calculadora-basica/bin/Debug/net8.0/calculadora-basica
+/var/www/calculadora-basica/bin/Debug/net8.0/calculadora-basica.deps.json
+/var/www/calculadora-basica/bin/Debug/net8.0/calculadora-basica.runtimeconfig.json
+/var/www/calculadora-basica/bin/Debug/net8.0/calculadora-basica.dll
+/var/www/calculadora-basica/bin/Debug/net8.0/calculadora-basica.pdb
+/var/www/calculadora-basica/obj/Debug/net8.0/calculadora-basica.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/calculadora-basica/obj/Debug/net8.0/calculadora-basica.AssemblyInfoInputs.cache
+/var/www/calculadora-basica/obj/Debug/net8.0/calculadora-basica.AssemblyInfo.cs
+/var/www/calculadora-basica/obj/Debug/net8.0/calculadora-basica.csproj.CoreCompileInputs.cache
+/var/www/calculadora-basica/obj/Debug/net8.0/calculadora-basica.dll
+/var/www/calculadora-basica/obj/Debug/net8.0/refint/calculadora-basica.dll
+/var/www/calculadora-basica/obj/Debug/net8.0/calculadora-basica.pdb
+/var/www/calculadora-basica/obj/Debug/net8.0/calculadora-basica.genruntimeconfig.cache
+/var/www/calculadora-basica/obj/Debug/net8.0/ref/calculadora-basica.dll
